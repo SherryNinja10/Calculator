@@ -77,8 +77,8 @@ input[type="text"] {
 }
 
 #answerBox {
-    width: 20%; /* Smaller than the input bar */
-    height: 40px;
+    width: 25%; /* Smaller than the input bar */
+    height: 50px;
     background-color: #ff7e5f;
     border: 2px solid #feb47b;
     border-radius: 8px;
