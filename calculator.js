@@ -15,7 +15,7 @@ function back() {
 
 function output() {
     try {
-        if (eval(input.value) == "") {
+        if (eval(input.value) == undefined) {
             answer.textContent = "Enter an equation";
         } else {
             answer.textContent = `${eval(input.value)}`;
